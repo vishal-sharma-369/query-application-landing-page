@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/query-application-landing-page/static/css/main.af7b2066.css",
+    "main.js": "/query-application-landing-page/static/js/main.51916160.js",
+    "static/media/bandi.png": "/query-application-landing-page/static/media/bandi.d62bcecfac893eaffddb.png",
+    "static/media/backgroundp.png": "/query-application-landing-page/static/media/backgroundp.83e3d64e33f2550f3055.png",
+    "index.html": "/query-application-landing-page/index.html",
+    "main.af7b2066.css.map": "/query-application-landing-page/static/css/main.af7b2066.css.map",
+    "main.51916160.js.map": "/query-application-landing-page/static/js/main.51916160.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af7b2066.css",
+    "static/js/main.51916160.js"
+  ]
+}
