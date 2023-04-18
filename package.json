@@ -2,6 +2,7 @@
   "name": "queriespagedesignusingmaterialuiandreact",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vishal-sharma-369.github.io/query-application-landing-page/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
@@ -20,7 +21,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
